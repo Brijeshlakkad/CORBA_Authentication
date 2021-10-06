@@ -39,7 +39,7 @@ public class AuthenticationServer {
 
             // get the root naming context
             // NameService invokes the name service
-            org.omg.CORBA.Object objRef = orb.string_to_object("corbaloc::localhost:8050/NameService");
+            org.omg.CORBA.Object objRef = orb.string_to_object("corbaloc::localhost:8050/NameService"); // InvalidName
             // Use NamingContextExt which is part of the Interoperable Naming Service (INS) specification.
             NamingContextExt ncRef = NamingContextExtHelper.narrow(objRef);
             // bind the Object Reference in Naming
