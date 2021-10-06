@@ -1,0 +1,13 @@
+/**
+ * Developed to present CORBA usage for Distributes Systems (SOEN 423) course.
+ * Developed by Brijesh Lakkad
+ *
+ * @author brijeshlakkad
+ */
+
+module AuthenticationApp{
+    interface Authentication{
+        boolean login(in string username, in string password);
+        oneway void shutdown();
+    };
+};

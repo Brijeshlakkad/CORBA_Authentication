@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jacorb-services-3.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/corba-api-5.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jacorb-omgapi-3.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/idl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jacorb-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/antlr-2.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-2.0.0-alpha5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-jdk14-1.7.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jacorb-3.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jboss-rmi-api_1.0_spec-1.0.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/wrapper-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rmi-1.0.1.wso2v1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/picocontainer-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
